@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  epic_tragedy[:montague][:hero][:status = "alive",
+  epic_tragedy[:montague][:hero][:status]= "alive",
   epic_tragedy[:capulet][:heroine][:status] = "alive"
   
 
